@@ -1,0 +1,77 @@
+/* primary styling */
+body{
+    background-color: #FFC09F;
+    text-align: center;
+}
+/* Heading style */
+h1{
+    color: #D33F49;
+    margin: 5%;
+    margin-bottom: 10%;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+/* image element styling */
+.container{
+    padding: 10px;
+}
+/* .first-element{
+    border: black;
+    border-style: solid;
+    border-width: 5px;
+} */
+
+.rock{
+    width: 55%;
+  margin-top: 20px;
+    padding: 5px;
+}
+.paper{
+    width: 55%;
+}
+.scissor{
+    width: 55%;
+}
+/* button styling */
+.button-first{
+    width: 15%;
+    line-height: 2;
+    position: relative;
+    right: 20%;
+    background-color: #826AED;
+    color:black ;
+    margin-top: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.button-second{
+    width: 15%;
+    line-height: 2;
+    background-color: #826AED;
+    color:black ;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+.button-third{
+    width: 15%;
+    line-height: 2;
+    background-color: #826AED;
+    color:black ;
+    position: relative;
+    left:20% ;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.common-button:hover{
+    background-color: black;
+    color:white ;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* footer */
+
+footer{
+    color: #D33F49;
+    padding-top: 2%; 
+    font-family: 'Merriweather Sans', sans-serif;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: #FFC09F;
+    text-align: center;
+}
+/* Heading style */
+h1{
+    color: #D33F49;
+    margin: 5%;
+    margin-bottom: 4%;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+/* images */
+.rock{
+    width: 55%;
+  margin-top: 10px;
+    padding: 5px;
+}
+.paper{
+    width: 55%;
+}
+.scissor{
+    width: 55%;
+}
